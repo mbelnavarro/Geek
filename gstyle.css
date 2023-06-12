@@ -1,0 +1,90 @@
+
+*{
+    background-color:rgb(161, 147, 156) ;
+
+    
+}
+
+h1{
+    text-align: center;
+    text-size-adjust: 30%;
+    text-decoration-line: overline;
+    text-decoration-skip: 20%;
+    font-size: 300%;
+    background-image: url("imagen.html/cocina.jpg");
+    border-color: orangered;
+    border-style:dotted;
+    background-position: 100%;
+    background-size: 300px;
+    width: 100%;
+    height: 100px;
+
+}
+
+.botones{
+   font-size: larger;
+   display: flex;
+
+}
+
+button{
+    background-color: rgb(235, 235, 189);
+    margin-left: 600%;
+    border-radius: 280%;
+    border-color: orangered;
+    width: 150%;
+    height: 170%;
+    cursor: pointer;
+
+
+
+}
+
+
+.link{
+   margin-top: 5%;
+
+
+
+
+}
+
+h2{
+   background-color: orangered;
+   text-align: center;
+   font-size: medium;
+
+}
+ 
+
+p{
+    background-color: rgb(240, 173, 58);
+    text-align: center;
+    font-size: 100%;
+
+}
+
+ol{
+    text-align: center;
+    background-color: rgb(242, 73, 12);
+    font-size:x-large;
+
+ 
+}
+
+li{
+    text-align: center;
+    margin-top: 20px;
+}
+
+img{
+    padding-left: 38%;
+
+
+}
+
+
+.u{
+    font-size: 100%;
+    text-align: left;
+}
